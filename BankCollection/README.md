@@ -1,4 +1,5 @@
 # Bank Collection
+https://www.slideshare.net/ArnoldJosephUrieta/data-science-project-presentation-67297315
 
 ## Business Objectives / Problem Statement
 This project targets predicting late payments or dead loan. Predicting the amount of collection of the late loan payments is a performance and profitability problem for banks. The ratio of default credits changes from 2 to 10 according to the customer segment. And some customers have problem in paying their credit to more then one bank. 
